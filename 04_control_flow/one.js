@@ -50,3 +50,4 @@ if (isUserLoggedIn && debitCard) {
 if (isUserLoggedIn || loggedInFromGoogle || loggedInFromFacebookEmail) {
     console.log("Allow user to access course");
 }
+
